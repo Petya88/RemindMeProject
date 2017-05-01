@@ -1,8 +1,6 @@
 package com.qoobico.remindme;
 
-/**
- * Created by petrm on 26.04.2017.
- */
+
 
 public class Constants {
     public static final int TAB_ONE = 0;
